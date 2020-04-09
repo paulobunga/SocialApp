@@ -1,0 +1,8 @@
+
+export const LOGIN_LOADING = "LOGIN_LOADING";
+export const SIGNUP_LOADING = "SIGNUP_LOADING";
+export const UPDATE_LOCATION = "UPDATE_LOCATION";
+export const GET_POSTS = "GET_POSTS";
+export const GET_POSTS_LOADING = "GET_POSTS_LOADING";
+export const CREATE_POST = "CREATE_POST"
+
